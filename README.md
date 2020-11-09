@@ -13,3 +13,12 @@
 Mk 1: Initial prototype model, not expected to handle 9mm cartridges, should be able to meet .22LR requirements.
 Mk 2: Improvements on the Mk 1, better lifespan and thermal capabilities. Address predicted issues like pressure from the cartridges wearing out the baffles quicker. Should meet or be very close to meeting all requirements.
 Mk 3: Completed version, should meet or exceed all requirements.
+
+
+Mk 1 Current Design Specifications:
+- 4.69 in^3 of expansion volume inside the suppressor.
+- Wall Thickness: 5mm
+- Number of baffles: 5
+- Radius: 18mm / 0.71in
+- Diameter: 36mm / 1.42in
+- Length: 190mm / 7.48in
