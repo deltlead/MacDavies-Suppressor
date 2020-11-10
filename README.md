@@ -4,21 +4,18 @@
 
   Project Goals:
 1. Develop a suppressor that is able to mitigate the noise of super sonic small calliber projectiles fired from pistols.
-2. Withstand at least 10x 9mm pistol cartridges being fired through it within 30 seconds.
-3. Withstand at least 30x .22LR cartridges being fired through it within 30 seconds.
-4. Fire more than 1000x .22LR cartridges before failure.
-5. Fire more than 200x 9mm cartridges before failure.
+3. Withstand at least 20x .22LR cartridges being fired through it within 30 seconds.
+4. Fire more than 1500x .22LR cartridges before failure.
 
   Versions:
-Mk 1: Initial prototype model, not expected to handle 9mm cartridges, should be able to meet .22LR requirements.
-Mk 2: Improvements on the Mk 1, better lifespan and thermal capabilities. Address predicted issues like pressure from the cartridges wearing out the baffles quicker. Should meet or be very close to meeting all requirements.
-Mk 3: Completed version, should meet or exceed all requirements.
+Mk 1: Initial designs. None have been manufactured yet and so haven't been tested.
+Mk 2: These designs have been manufactured and tested with live ammo, preliminary revisions being made to adjust for issues that arise during testing.
+Mk 3: Completed version, issues have been corrected and new changes have been added to increase performance of the design beyond the minimum requirements.
 
+  Mark vs Mod:
+Mark Denotes a stage of the development process. Mod denotes a version iteration occuring within a stage of the design process. The last mod of a Mk usually becomes the first mod of the next Mk.
 
-Mk 1 Current Design Specifications:
-- 4.69 in^3 of expansion volume inside the suppressor.
-- Wall Thickness: 5mm
-- Number of baffles: 5
-- Radius: 18mm / 0.71in
-- Diameter: 36mm / 1.42in
-- Length: 190mm / 7.48in
+  Concepts to be experimented with to improve performance:
+- Wet Can: Using water or grease to cool the expanding gasses as they enter the suppressor volume. This should increase noise suppression and potentially improve the longevity of the material by helping to reduce thermal shock to the baffles
+- Salt Packed Annealing: By completing filling the suppressor with powdered salt (till it is tightly packed) you can reduce deformation caused by annealing plastics. Annealing will help improve the strength and thermal tolerances of the material by molding the extruded layers of plastic into one continuous piece.
+- Baffles Holes: By adding holes in the baffles, we can create paths for the expanding gas to travel through, by staggering the holes the gas is foced to bounce off of the next baffle where it interferes with the gas coming through the bore, this will hopefully create more turbulence and increase pressure drop through the suppressor.
