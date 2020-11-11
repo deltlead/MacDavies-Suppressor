@@ -9,7 +9,9 @@
 
   Versions:
 Mk 1: Initial designs. None have been manufactured yet and so haven't been tested.
+
 Mk 2: These designs have been manufactured and tested with live ammo, preliminary revisions being made to adjust for issues that arise during testing.
+
 Mk 3: Completed version, issues have been corrected and new changes have been added to increase performance of the design beyond the minimum requirements.
 
   Mark vs Mod:
