@@ -1,0 +1,6 @@
+Mk 1 Mod 2 Updates:
+
+- Switched from a single print design to a modular design. The suppressor can now be dissasembled for cleaning and maintenance.
+- Changed the baffle design and dropped the pigeon holes.
+- Added a "Pachinko Block" (I don't know what to call it, I've only seen it in a few videos demonstrating prototype suppressors and I can't find any documentation on the design or what its called.) The idea behind this section is to prevent the remaining gases from escaping by creating an extremely turbulent area towards the end of the can. Staggered pegs that block airflow and holes that create flow paths perpendicular to the bore create what I am now going to refer to as the "Pachinko Effect" where random flow paths destructively interfere with eachother and create turbulence.
+- The baffles, spacers, and Pachinko Block can be rearranged quickly and easily. All components have common diameters which makes rapid prototyping very easy.
